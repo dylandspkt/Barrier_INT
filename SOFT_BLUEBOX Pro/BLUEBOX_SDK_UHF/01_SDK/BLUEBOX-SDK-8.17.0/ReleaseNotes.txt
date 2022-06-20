@@ -1,0 +1,669 @@
+BLUEBOX SDK version 8.17.0 Release Notes
+Copyright (C) 2010-2013 Soltec Soluzioni Tecnologiche Srl
+
+This release contains the following components:
+
+* BLUEBOX Demo directory
+	- Source directory
+		- All project source files.
+* BLUEBOX Polling directory
+	- Source directory
+		- All project source files.
+	- BLUEBOX Polling.exe
+	- x86
+		- BLUEBOXLib.dll
+	- x64
+		- BLUEBOXLib.dll
+	- ReleaseNotex.txt
+* BLUEBOX Show directory
+	- BLUEBOX Show.exe
+	- BLUEBOXLib.dll
+	- BLUEBOX.ico
+	- CIniFile.dll
+	- MessageBoxManager.dll
+	- ZedGraph.dll
+	- BLUEBOX.mdb
+	- ReleaseNotes.txt
+* BLUEBOX Test directory
+	- Source directory
+		- All project source files.
+	- BLUEBOX Test.exe
+	- x86
+		- BLUEBOXLib.dll
+	- x64
+		- BLUEBOXLib.dll
+	- ReleaseNotes.txt
+* BLUEBOXLib directory
+	- x86
+		- BLUEBOXLib.dll
+		- BLUEBOXLib.lib
+	- x64
+		- BLUEBOXLib.dll
+		- BLUEBOXLib.lib
+	- BLUEBOXLib.def
+	- BLUEBOXLib.h
+	- ReleaseNotes.txt
+* ReleaseNotes.txt (this file)
+* Unistall.exe
+
+Release Date
+------------
+
+	BLUEBOX Show version 8.17.0 - 12/03/13.
+
+Revision History
+----------------
+
+	Version 8.17.0 - 12/03/13
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.14.0 (changed)
+		BLUEBOX Polling V3.11.0 (changed)
+		BLUEBOX Show V6.18.0 (changed)
+		BLUEBOX Test V3.11.0 (changed)
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares and the library with the new releases. 
+		See the software's ReleaseNotes.txt files for details.
+
+	Version 8.16.0 - 26/02/13
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.13.0 (changed)
+		BLUEBOX Polling V3.10.0 (changed)
+		BLUEBOX Show V6.17.0 (changed)
+		BLUEBOX Test V3.10.0 (changed)
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares and the library with the new releases. 
+		See the software's ReleaseNotes.txt files for details.
+
+	Version 8.15.0 - 13/02/13
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.12.0 (changed)
+		BLUEBOX Polling V3.9.0 (changed)
+		BLUEBOX Show V6.16.0 (changed)
+		BLUEBOX Test V3.9.0 (changed)
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares and the library with the new releases. 
+		See the software's ReleaseNotes.txt files for details.
+
+	Version 8.14.0 - 19/12/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.11.0 (changed)
+		BLUEBOX Polling V3.8.0 (changed)
+		BLUEBOX Show V6.15.0 (changed)
+		BLUEBOX Test V3.8.0 (changed)
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares and the library with the new releases. 
+		See the software's ReleaseNotes.txt files for details.
+
+	Version 8.13.0 - 06/12/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.10.0 (changed)
+		BLUEBOX Polling V3.7.0 (changed)
+		BLUEBOX Show V6.14.0 (changed)
+		BLUEBOX Test V3.7.0 (changed)
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares and the library with the new releases. 
+		See the software's ReleaseNotes.txt files for details.
+
+
+	Version 8.12.0 - 03/12/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.9.0 (changed)
+		BLUEBOX Polling V3.6.0 (changed)
+		BLUEBOX Show V6.13.0 (changed)
+		BLUEBOX Test V3.6.0 (changed)
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares and the library with the new releases. 
+		See the software's ReleaseNotes.txt files for details.
+
+	Version 8.11.0 - 12/11/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.8.0
+		BLUEBOX Polling V3.5.0
+		BLUEBOX Show V6.12.2 (changed)
+		BLUEBOX Test V3.5.0
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 8.10.0 - 02/11/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.8.0
+		BLUEBOX Polling V3.5.0
+		BLUEBOX Show V6.12.1 (changed)
+		BLUEBOX Test V3.5.0
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 8.9.0 - 12/10/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.8.0 (changed)
+		BLUEBOX Polling V3.5.0 (changed)
+		BLUEBOX Show V6.12.0 (changed)
+		BLUEBOX Test V3.5.0 (changed)
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 8.8.0 - 13/08/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.7.0 (changed)
+		BLUEBOX Polling V3.4.0
+		BLUEBOX Show V6.11.0 (changed)
+		BLUEBOX Test V3.4.0
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 8.7.0 - 01/08/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.6.0 (changed)
+		BLUEBOX Polling V3.4.0
+		BLUEBOX Show V6.10.0 (changed)
+		BLUEBOX Test V3.4.0
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 8.6.0 - 11/06/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.5.0
+		BLUEBOX Polling V3.4.0
+		BLUEBOX Show V6.9.0
+		BLUEBOX Test V3.4.0
+
+		New features / Enhancements
+		---------------------------						
+		Updated the sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 8.5.0 - 28/05/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.5.0
+		BLUEBOX Polling V3.4.0
+		BLUEBOX Show V6.8.0
+		BLUEBOX Test V3.4.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 8.5.0. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated the sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 8.4.0 - 08/03/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.4.0
+		BLUEBOX Polling V3.4.0
+		BLUEBOX Show V6.7.0
+		BLUEBOX Test V3.4.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 8.4.0. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated the sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+		
+	Version 8.3.0 - 28/02/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.3.0
+		BLUEBOX Polling V3.4.0
+		BLUEBOX Show V6.6.0
+		BLUEBOX Test V3.4.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 8.3.0. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated the sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+		
+	Version 8.2.0 - 22/02/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.2.0
+		BLUEBOX Polling V3.4.0
+		BLUEBOX Show V6.5.0
+		BLUEBOX Test V3.4.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 8.2.0. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+		
+	Version 8.1.0 - 27/01/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.1.0
+		BLUEBOX Polling V3.3.0
+		BLUEBOX Show V6.4.0
+		BLUEBOX Test V3.3.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 8.1.0. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 8.0.0 - 18/01/12
+
+		File Update List
+		----------------
+		BLUEBOXLib V8.0.0
+		BLUEBOX Polling V3.2.0
+		BLUEBOX Show V6.3.0
+		BLUEBOX Test V3.2.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 8.0.0. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 7.3.0 - 03/11/11
+
+		File Update List
+		----------------
+		BLUEBOXLib V7.2.1
+		BLUEBOX Polling V3.1.1
+		BLUEBOX Show V6.2.1
+		BLUEBOX Test V3.1.1
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 7.2.1. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 7.2.0 - 31/10/11
+
+		File Update List
+		----------------
+		BLUEBOXLib V7.2.0
+		BLUEBOX Polling V3.1.0
+		BLUEBOX Show V6.2.0
+		BLUEBOX Test V3.1.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 7.2.0. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 7.1.0 - 24/10/11
+
+		File Update List
+		----------------
+		BLUEBOXLib V7.1.0
+		BLUEBOX Polling V3.1.0
+		BLUEBOX Show V6.1.0
+		BLUEBOX Test V3.1.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 7.1.0. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+		
+	Version 7.0.0 - 09/09/11
+
+		File Update List
+		----------------
+		BLUEBOXLib V7.0.0
+		BLUEBOX Polling V3.0.0
+		BLUEBOX Show V6.0.0
+		BLUEBOX Test V3.0.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 7.0.0. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+		
+		Added a Visual C++ sample software.
+
+	Version 6.7.0 - 25/07/11
+
+		File Update List
+		----------------
+		BLUEBOXLib V6.2.1
+		BLUEBOX Polling V2.5.0
+		BLUEBOX Show V5.5.0
+		BLUEBOX Test V2.5.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 6.2.1. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 6.6.0 - 07/07/11
+
+		File Update List
+		----------------
+		BLUEBOXLib V6.2.0
+		BLUEBOX Polling V2.4.0
+		BLUEBOX Show V5.4.0
+		BLUEBOX Test V2.4.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOXLib library to release 6.2.0. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 6.5.0 - 21/06/11
+
+		File Update List
+		----------------
+		BLUEBOXLib V6.1.0
+		BLUEBOX Polling V2.3.0
+		BLUEBOX Show V5.3.1
+		BLUEBOX Test V2.3.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOX Show software with the new release. See the 
+		software's ReleaseNotes.txt files for details.
+
+	Version 6.4.0 - 10/06/11
+
+		File Update List
+		----------------
+		BLUEBOXLib V6.1.0
+		BLUEBOX Polling V2.3.0
+		BLUEBOX Show V5.3.0
+		BLUEBOX Test V2.3.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOX Show software with the new release. See the 
+		software's ReleaseNotes.txt files for details.
+		
+	Version 6.3.0 - 04/04/11
+
+		File Update List
+		----------------
+		BLUEBOXLib V6.1.0
+		BLUEBOX Polling V2.3.0
+		BLUEBOX Show V5.2.1
+		BLUEBOX Test V2.3.0
+
+		New features / Enhancements
+		---------------------------				
+		Updated the BLUEBOX Show software with the new release. See the 
+		software's ReleaseNotes.txt files for details.		
+
+	Version 6.2.0 - 17/01/11
+
+		File Update List
+		----------------
+		BLUEBOXLib V6.1.0
+		BLUEBOX Polling V2.3.0
+		BLUEBOX Show V5.2.0
+		BLUEBOX Test V2.3.0
+
+		New features / Enhancements
+		---------------------------	
+		Updated the BLUEBOXLib library to release 6.1.0. See the library's
+		ReleaseNotes.txt file for details.
+				
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+		
+	Version 6.1.0 - 09/11/10
+
+		File Update List
+		----------------
+		BLUEBOXLib V6.0.0
+		BLUEBOX Polling V2.2.0
+		BLUEBOX Show V5.1.0
+		BLUEBOX Test V2.2.0
+
+		New features / Enhancements
+		---------------------------	
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+		
+		Corrections
+		-----------
+		Fixed bug which causes a BLUEBOXLib.dll load library error when using
+		the softwares with 64 bits OS.			
+
+	Version 6.0.0 - 10/08/10
+
+		File Update List
+		----------------
+		BLUEBOXLib V6.0.0
+		BLUEBOX Polling V2.1.0
+		BLUEBOX Show V5.0.0
+		BLUEBOX Test V2.1.0
+
+		New features / Enhancements
+		---------------------------
+		Updated the BLUEBOXLib to release 6.0.0. See the library's
+		ReleaseNotes.txt file for details.
+		
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 5.1.0 - 05/08/10
+
+		File Update List
+		----------------
+		BLUEBOXLib V5.1.0
+		BLUEBOX Polling V2.0.0
+		BLUEBOX Show V4.1.0
+		BLUEBOX Test V2.0.0
+
+		New features / Enhancements
+		---------------------------
+		Updated the BLUEBOXLib to release 5.1.0. See the library's
+		ReleaseNotes.txt file for details.
+
+		Updated the BLUEBOX Show sample software with the new releases. See the
+		software's ReleaseNotes.txt file for details.
+
+	Version 5.0.0 - 02/08/10
+
+		File Update List
+		----------------
+		BLUEBOXLib V5.0.0
+		BLUEBOX Polling V2.0.0
+		BLUEBOX Show V4.0.0
+		BLUEBOX Test V2.0.0
+
+		New features / Enhancements
+		---------------------------
+		Updated the BLUEBOXLib to release 5.0.0. See the library's
+		ReleaseNotes.txt file for details.
+
+		Updated the BLUEBOX Show sample software with the new releases. See the
+		software's ReleaseNotes.txt file for details.
+		
+	Version 4.0.0 - 08/07/10
+
+		File Update List
+		----------------
+		BLUEBOXLib V4.0.0
+		BLUEBOX Polling V2.0.0
+		BLUEBOX Show V3.0.0
+		BLUEBOX Test V2.0.0
+
+		New features / Enhancements
+		---------------------------
+		Updated the BLUEBOXLib to release 4.0.0. See the library's
+		ReleaseNotes.txt file for details.
+
+		Updated all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+		
+		Corrections
+		-----------
+		Fixed bug with sample softwares prerequisites.
+
+	Version 3.0.0 - 18/06/10
+
+		File Update List
+		----------------
+		BLUEBOXLib V3.0.0
+		BLUEBOX Polling V1.3.0
+		BLUEBOX Show V2.0.0
+		BLUEBOX Test V1.3.0
+
+		New features / Enhancements
+		---------------------------
+		Updated the BLUEBOXLib to release 3.0.0. See the library's
+		ReleaseNotes.txt file for details.
+
+		Update all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 2.2.0 - 12/05/10
+
+		File Update List
+		----------------
+		BLUEBOXLib V2.0.1
+		BLUEBOX Polling V1.2.1
+		BLUEBOX Show V1.3.0
+		BLUEBOX Test V1.2.1
+
+		New features / Enhancements
+		---------------------------
+		Update all sample softwares with the new releases. See the software's
+		ReleaseNotes.txt files for details.
+
+	Version 2.1.0 - 07/05/10
+
+		File Update List
+		----------------
+		BLUEBOXLib V2.0.1
+		BLUEBOX Polling V1.2.0
+		BLUEBOX Show V1.2.0
+		BLUEBOX Test V1.2.0
+
+		New features / Enhancements
+		---------------------------
+		Added the ReleaseNotes.txt (this file).
+
+		Corrections
+		-----------
+		Fixed bug in opening connection with reader in BLUEBOXLib.dll.
+		
+		Update all sample softwares with the new BLUEBOX library release.
+
+	Version 2.0.0 - 05/05/10
+
+		File Update List
+		----------------
+		BLUEBOXLib V2.0.0
+		BLUEBOX Polling V1.1.0
+		BLUEBOX Show V1.1.0
+		BLUEBOX Test V1.1.0
+
+		New features / Enhancements
+		---------------------------
+		Added BLUEBOX LF LONG RANGE reader management in BLUEBOXLib.dll and all
+		sample software.
+
+		Added BLUEBOX HF MID/LONG RANGE reader management in BLUEBOXLib.dll and
+		all sample software.
+
+		Added BLUEBOX UHF SHORT/LONG RANGE reader management in BLUEBOXLib.dll
+		all and sample software.
+
+		Added BLUEBOX ACTIVE reader management in BLUEBOXLib.dll and all sample
+		software.
+		
+		Added the RS485 interface management in BLUEBOXLib.dll and in BLUEBOX
+		Show.
+		
+		Added the INI file management to store the reader address and the 
+		RS232/RS485	and TCP parameters in a INI file saved in the same folder 
+		of the executable file.		
+
+		Corrections
+		-----------
+		Fixed minor bugs in all sample software.
+
+	Version 1.0.0 - 30/03/10
+
+		Initial Release.
+

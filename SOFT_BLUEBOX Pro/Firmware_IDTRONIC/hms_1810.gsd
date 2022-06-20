@@ -1,0 +1,170 @@
+;============================================================
+; Profibus Device Database of HMS Industrial Networks.
+;
+; Model :       Anybus-IC DP-V0
+; Description : Anybus-IC DP-V0 slave
+; Language :    English
+; Date :        16 March 2007
+; Author :      HMS Industrial Networks
+;
+; Revision log:
+;
+; 2006-10-02:   Updated revision information. Cleared old
+;               revision history.
+; 2007-03-16:   Updated revision information.
+; 2007-03-16:   Updated SW revision information.
+; 2007-09-18:   Updated SW revision information.
+; 2008-01-16:   Updated Model_Name.
+; 2008-03-27:   Updated SW revision information.
+; 2008-05-15:   Updated SW revision information.
+; 2008-06-12:   Updated SW revision information.
+; 2008-10-23:   Updated SW revision information and added Max_User_Prm_Data_Len.
+; 2008-11-20:   Updated SW revision information and removed Max_User_Prm_Data_Len.
+;
+;============================================================
+
+#Profibus_DP
+
+GSD_Revision        = 3
+
+
+; Device identification
+Vendor_Name         = "HMS Industrial Networks"
+Model_Name          = "Anybus-IC PDP"
+Revision            = "Version 2.12"
+Ident_Number        = 0x1810
+Protocol_Ident      = 0              ; DP protocol
+Station_Type        = 0              ; Slave device
+FMS_supp            = 0              ; FMS not supported
+Hardware_Release    = "Version 2.3"
+Software_Release    = "Version 2.12"
+
+;Used bitmap
+Bitmap_Device = "ABIC_DE"
+Bitmap_Diag   = "ABIC_DI"
+Bitmap_SF     = "ABIC_SF"
+
+; Supported baudrates
+9.6_supp            = 1
+19.2_supp           = 1
+45.45_supp          = 1
+93.75_supp          = 1
+187.5_supp          = 1
+500_supp            = 1
+1.5M_supp           = 1
+3M_supp             = 1
+6M_supp             = 1
+12M_supp            = 1
+
+; Maximum responder time for supported baudrates
+MaxTsdr_9.6         = 15
+MaxTsdr_19.2        = 15
+MaxTsdr_45.45       = 15
+MaxTsdr_93.75       = 15
+MaxTsdr_187.5       = 15
+MaxTsdr_500         = 15
+MaxTsdr_1.5M        = 25
+MaxTsdr_3M          = 50
+MaxTsdr_6M          = 100
+MaxTsdr_12M         = 200
+
+; Supported hardware features
+Redundancy          = 0       ; not supported
+Repeater_Ctrl_Sig   = 2       ; TTL
+24V_Pins            = 0       ; not connected
+Implementation_Type = "NP30"
+
+; Supported DP features
+Freeze_Mode_supp    = 1       ; supported
+Sync_Mode_supp      = 1       ; supported
+Auto_Baud_supp      = 1       ; supported
+Set_Slave_Add_supp  = 1       ; supported
+
+; Maximum polling frequency
+Min_Slave_Intervall = 1       ; 100 us
+
+; Maximum supported sizes
+Modular_Station     = 1       ; modular
+Max_Module          = 24
+Max_Input_Len       = 144
+Max_Output_Len      = 144
+Max_Data_Len        = 288
+Modul_Offset        = 1
+
+Fail_Safe           = 1       ; Data telegram without data in state CLEAR accepted
+
+Slave_Family        = 0
+Max_Diag_Data_Len   = 6
+
+; Definition of modules
+Module = "IN/OUT:   1 Byte" 0x30
+1
+EndModule
+;
+Module = "IN/OUT:   2 Byte ( 1 word)" 0x70
+2
+EndModule
+;
+Module = "IN/OUT:   4 Byte ( 2 word)" 0x71
+3
+EndModule
+;
+Module = "IN/OUT:   8 Byte ( 4 word)" 0x73
+4
+EndModule
+;
+Module = "IN/OUT:  16 Byte ( 8 word)" 0x77
+5
+EndModule
+;
+Module = "IN/OUT:  32 Byte (16 word)" 0x7F
+6
+EndModule
+;
+Module = "INPUT:    1 Byte" 0x10
+7
+EndModule
+;
+Module = "INPUT:    2 Byte ( 1 word)" 0x50
+8
+EndModule
+;
+Module = "INPUT:    4 Byte ( 2 word)" 0x51
+9
+EndModule
+;
+Module = "INPUT:    8 Byte ( 4 word)" 0x53
+10
+EndModule
+;
+Module = "INPUT:   16 Byte ( 8 word)" 0x57
+11
+EndModule
+;
+Module = "INPUT:   32 Byte (16 word)" 0x5F
+12
+EndModule
+;
+Module = "OUTPUT:   1 Byte" 0x20
+13
+EndModule
+;
+Module = "OUTPUT:   2 Byte ( 1 word)" 0x60
+14
+EndModule
+;
+Module = "OUTPUT:   4 Byte ( 2 word)" 0x61
+15
+EndModule
+;
+Module = "OUTPUT:   8 Byte ( 4 word)" 0x63
+16
+EndModule
+;
+Module = "OUTPUT:  16 Byte ( 8 word)" 0x67
+17
+EndModule
+;
+Module = "OUTPUT:  32 Byte (16 word)" 0x6F
+18
+EndModule

@@ -1,0 +1,73 @@
+BLUEBOX UHF Long Range version 2.08 Release Notes
+Copyright (C) 2012-2013 Soltec Soluzioni Tecnologiche Srl
+
+This release contains the following components:
+
+* BRIDGE_UHF 2.08l.bin
+* ReleaseNotes.txt (this file)
+* hms_1810.gsd
+
+Release Date
+------------
+
+	BLUEBOX UHF Long Range version 2.08 - 16/04/13.
+
+Revision History
+----------------
+
+	Version 2.08 - 16/04/13
+
+		Corrections
+		-----------
+		Fixed a bug in the ISO 18000-6C inventory procedure.
+
+	Version 2.07 - 11/03/13
+
+		Corrections
+		-----------
+		Fixed a bug in the initialization procedure.
+
+	Version 2.06 - 07/01/13
+
+		New features / Enhancements
+		---------------------------
+		Improved the initialization procedure of the reader.
+		
+		Deleted the auto reset after RF parameters writing. The new RF
+		parameters are now immediattely activated.
+
+	Version 2.04 - 05/10/12
+
+		New features / Enhancements
+		---------------------------
+		Added the possibility to write the PC word in EPC bank of the
+		ISO 18000-6C tags.
+
+	Version 2.03 - 27/08/12
+
+		Corrections
+		-----------
+		Fixed bug in session management in general parameters.
+
+	Version 2.02 - 27/07/12
+
+		Corrections
+		-----------
+		Fixed bug in address identification in ISO 18000-6C Read and Write
+		commands.
+
+	Version 2.01 - 08/06/12
+
+		New features / Enhancements
+		---------------------------
+		Added the 'continuous + gate mode'. The reader works in 'gate mode'
+		but it continuously searches tags as in 'continuous mode'. Activable
+		with flags in general parameters.
+
+		Added a reading range test mode activable with dip switches to test
+		the reading range of the antenna.
+
+	Version 2.00 - 28/05/12
+
+		Initial Release.
+

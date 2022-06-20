@@ -1,0 +1,17 @@
+C:\Users\LENOVO G470 SERIES\Desktop\SourceC#\bin\Debug\ReleaseNotes.txt
+C:\Users\LENOVO G470 SERIES\Desktop\SourceC#\bin\Debug\BLUEBOX Polling.exe
+C:\Users\LENOVO G470 SERIES\Desktop\SourceC#\bin\Debug\BLUEBOX Polling.pdb
+C:\Users\LENOVO G470 SERIES\Desktop\SourceC#\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LENOVO G470 SERIES\Desktop\SourceC#\obj\Debug\BLUEBOX_Polling.AboutBox.resources
+C:\Users\LENOVO G470 SERIES\Desktop\SourceC#\obj\Debug\BLUEBOX_Polling.MainForm.resources
+C:\Users\LENOVO G470 SERIES\Desktop\SourceC#\obj\Debug\BLUEBOX_Polling.Properties.Resources.resources
+C:\Users\LENOVO G470 SERIES\Desktop\SourceC#\obj\Debug\ResGen.read.1.tlog
+C:\Users\LENOVO G470 SERIES\Desktop\SourceC#\obj\Debug\ResGen.write.1.tlog
+C:\Users\LENOVO G470 SERIES\Desktop\SourceC#\obj\Debug\BLUEBOX Polling.exe
+C:\Users\LENOVO G470 SERIES\Desktop\SourceC#\obj\Debug\BLUEBOX Polling.pdb
+E:\LNT\RFID\Reader Document\Pro reader_05_2013\SourceCode\SourceC#_IDTROCNIC_Run_05_2013\obj\Debug\BLUEBOX Polling.exe
+E:\LNT\RFID\Reader Document\Pro reader_05_2013\SourceCode\SourceC#_IDTROCNIC_Run_05_2013\obj\Debug\BLUEBOX Polling.pdb
+I:\SOFT_BLUEBOX Pro\SourceCode_C#\SourceC#_IDTROCNIC_Run_05_2013\obj\Debug\BLUEBOX Polling.exe
+I:\SOFT_BLUEBOX Pro\SourceCode_C#\SourceC#_IDTROCNIC_Run_05_2013\obj\Debug\BLUEBOX Polling.pdb
+C:\Users\vanda\Desktop\Embedded self-study\SOFT_BLUEBOX Pro\SourceCode_C#\SourceC#_IDTROCNIC_Run_05_2013\obj\Debug\BLUEBOX Polling.exe
+C:\Users\vanda\Desktop\Embedded self-study\SOFT_BLUEBOX Pro\SourceCode_C#\SourceC#_IDTROCNIC_Run_05_2013\obj\Debug\BLUEBOX Polling.pdb

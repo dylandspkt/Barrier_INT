@@ -1,0 +1,3 @@
+BLUEBOX SDK is a development kit containig a software library (BLUEBOXLib) developed in ANSI C and three applications (BLUEBOX Polling, BLUEBOX Show and BLUEBOX Test) using the libray described above. The SDK also contains the source code of the three applications mentioned above to provide a valid aid for the development of applications based on the library as well as allowing an easy use of all devices of BLUEBOX series.
+
+The three applications are developed in .Net C#, .Net C++ e .Net VB, the software library is developed in ANSI C. In addition to the .dll file, also .h, .lib and .def files are provided.
